@@ -4,6 +4,6 @@
 
 **Senior Software Engineer @ [DMI LLC](https://dminc.com/)**
 
-####[Check out my portfolio](crsschwalm@github.io)
+#### Check out [my portfolio site](crsschwalm@github.io)
 
 For enquiries, reach out: [crsschwalm@gmail.com](mailto:crsschwalm@gmail.com).

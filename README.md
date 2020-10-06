@@ -2,7 +2,7 @@
 
 ![Banner for crsschwalm](https://github.com/crsschwalm/crsschwalm/raw/master/assets/portfolio.png)
 
-**Senior Software Engineer @ [DMI LLC](https://dminc.com/)**
+**Full-Stack Web Developer @ [iFit](https://ifit.com/)**
 
 #### Check out [my portfolio site](https://crsschwalm.github.io)
 

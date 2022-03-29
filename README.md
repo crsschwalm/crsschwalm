@@ -2,7 +2,7 @@
 
 ![Banner for crsschwalm](https://github.com/crsschwalm/crsschwalm/raw/master/assets/portfolio.png)
 
-**Full-Stack Web Developer @ [iFit](https://ifit.com/)**
+**Full-Stack Web Developer @ [Square](https://squareup.com/)**
 
 #### Check out [my portfolio site](https://crsschwalm.github.io)
 
